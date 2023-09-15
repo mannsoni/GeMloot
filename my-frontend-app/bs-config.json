@@ -1,0 +1,10 @@
+{
+    "server": {
+      "baseDir": "C:/GeMloot_new/my-frontend-app", 
+      "routes": {
+        "/api": "http://localhost:5500" 
+      }
+    },
+    "files": ["index.html", "styles.css", "script.js"],
+    "open": false   
+}
